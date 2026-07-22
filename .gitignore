@@ -2,3 +2,5 @@ project2/.embuild/
 project2/target/
 .embuild/
 target/
+project1/target/
+project1/.embuild/
